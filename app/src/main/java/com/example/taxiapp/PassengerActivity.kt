@@ -61,7 +61,8 @@ class PassengerActivity : AppCompatActivity(), OnMapReadyCallback,View.OnClickLi
              */
             if (objects.size>0 && e == null){
                     rideCanceled = false
-                btnRequestRide.text = "Cancel your Ride"
+                btnRequestRide.text = "Cancel your Ride" //because we have request in the server this would change uber request to  false
+
             }
 
         })
