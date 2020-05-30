@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TaxiApp</string>
+    <string name="login">Login</string>
+    <string name="don_t_have_an_account_sign_up">Don\'t have an Account? Sign up</string>
+    <string name="upload_a_photo">Upload a photo</string>
+    <string name="register">Register</string>
+    <string name="title_activity_passenger">Passenger</string>
+    <string name="title_activity_passenger_activity">Map</string>
+</resources>
